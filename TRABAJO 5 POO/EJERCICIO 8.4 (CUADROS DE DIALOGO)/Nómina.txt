@@ -1,0 +1,21 @@
+Nombre = Juan Pablo
+Apellidos = Ferreira Ortiz
+Cargo = ESTRATEGICO
+Género = MASCULINO
+Salario = $115000.0
+Días trabajados = 30
+Otros ingresos = $180000.0
+Pagos salud = $74000.0
+Aportes pensiones = $37000.0
+---------
+Nombre = Mariana
+Apellidos = Arteaga
+Cargo = DIRECTIVO
+Género = FEMENINO
+Salario = $210000.0
+Días trabajados = 30
+Otros ingresos = $210300.0
+Pagos salud = $120000.0
+Aportes pensiones = $440000.0
+---------
+Total nómina = $9469300.00
